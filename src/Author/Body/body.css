@@ -1,0 +1,16 @@
+.body{
+    display:flex;
+    margin: 20px;
+    padding: 20px;
+    width: 40rem;
+
+}
+.options-main {
+    margin: 0 0 0 40px;
+  }
+ .successbackgroundcolor{
+background-color: seagreen;
+ }
+ .redbackgroundcolor{
+     background-color: red;
+ }

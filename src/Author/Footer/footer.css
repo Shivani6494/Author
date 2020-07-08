@@ -1,0 +1,7 @@
+.footer{
+    display: flex;
+    width: 44rem;
+}
+.subview{
+    margin-left: auto;
+}
