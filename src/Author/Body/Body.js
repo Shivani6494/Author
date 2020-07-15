@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import './body.css'
-import Paragraph from '../components/Paragraph/Paragraph'
+import Paragraph from '../../components/paragraph/paragraph'
 export default class Body extends Component {
     state = {
         value: ''
